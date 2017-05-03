@@ -25,9 +25,9 @@ url: http://www.cryptmoon.info # the base hostname & protocol for your site
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome!  
-  text: I hope you enjoy my collection
+  text: I hope you enjoy the videos
 # - title for your blog's featured posts
-features-title: Featured topics
+features-title: Sottotitolo
 # - displayed at the bottom
 closing-head: Thanks for visiting
 closing-para: Feel free to get in touch. Cheers!
