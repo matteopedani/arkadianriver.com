@@ -16,10 +16,10 @@ description: Flowing creativity &#x2192; Cascading bliss
 owner:
   name: Cryptmoon web film # or company name
   email: matteo@pedani.it
-  url: http://cryptmoon.info
+  url: http://www.cryptmoon.info
 first_published: 2017 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arkadianriver.com" # the base hostname & protocol for your site
+url: http://www.cryptmoon.info # the base hostname & protocol for your site
 
 # on landing page
 # - set the greeting only if you want to display the first green section
@@ -37,8 +37,8 @@ social:
   twitter: https://twitter.com/cryptmoon
   #github: https://github.com/arkadianriver
   #linkedin-square: https://linkedin.com/in/garyfaircloth
-  facebook-official: https://facebook.com/cryptmoon
-  google-plus-square: https://plus.google.com/u/0/+GaryFaircloth
+  facebook-official: https://www.facebook.com/cryptmoon/
+  google-plus-square: https://plus.google.com/u/0/b/109130008025530133457/109130008025530133457
   email: /contact/
   #flickr:
   #instagram:
