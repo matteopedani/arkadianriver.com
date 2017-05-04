@@ -1,3 +1,9 @@
 ## Crypmoon   
 
-This site is the offical site of cryptmoon web series. To clone the theme use  http://themes.jekyllrc.org/spectral/
+This site is the offical site of cryptmoon web series. 
+
+
+
+We are using the theme spectral
+
+http://themes.jekyllrc.org/spectral/
