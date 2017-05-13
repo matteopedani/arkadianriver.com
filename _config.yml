@@ -12,7 +12,7 @@
 
 # Site settings
 title: cryptmoon
-description: De Crypt &#x2192; Moon
+description: Noumenon
 owner:
   name: Cryptmoon web film # or company name
   email: matteo@pedani.it
@@ -24,13 +24,13 @@ url: http://www.cryptmoon.info # the base hostname & protocol for your site
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Welcome!  
-  text: I hope you enjoy the videos
+  title: Cryptmoon
+  text:  A series that reveals the invisible clash of obscure energies that surrounds us and that can take possession of our conscience, leading us to commit extreme acts.
 # - title for your blog's featured posts
 features-title: Wow
 # - displayed at the bottom
-closing-head: Thanks for visiting
-closing-para: Feel free to get in touch. Cheers!
+#closing-head: Thanks for visiting
+# closing-para: Feel free to get in touch. Cheers!
 
 # on all pages (and the first three you list display with greeting, if included)
 social:
