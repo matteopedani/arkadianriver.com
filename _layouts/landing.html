@@ -15,6 +15,14 @@
     <div id="page-wrapper">
 
       {% include header.html %}
+<!-- Banner -->
+<section id="banner">
+						<div class="inner">
+							<h2>{{ site.title }}</h2>
+							<p>{{ site.description | markdownify }}</p>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+</section>
 
       {{ content }}
 

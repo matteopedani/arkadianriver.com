@@ -5,6 +5,7 @@ sitemap:
 ---
 
 
+
  <h3> PROJECT DESCRIPTION</h3>
 Cryptmoon is a series that reveals the invisible clash of obscure energies that surrounds us and that can take possession of our conscience, leading us to commit extreme acts.
 One of these forces is called Verbus: it enters the body of the protagonist and generates a double personality in him, but this is visible only to Crypt, his rival: a man who by means of Metaphonia - the recording of sounds that arrive from the spirit world - tries to intercept him and figure out his evil plans.
