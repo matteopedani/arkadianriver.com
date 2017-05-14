@@ -16,14 +16,14 @@ sitemap:
 							</div>
 </section>
 <section class="spotlight">
-							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
 								<h2>PLOT:</h2>
 								<p>Roberto, Samuele’s father, after following his wife Luisa, discovers that she is having a love affair with Alessandro. This revelation fills him with panic and his state of despair evokes the arrival of Verbus, his dark side alter ego. Verbus offers him a way out, but there is a terrible price to pay to obtain it.<br />
 Only Crypt, a keen investigator of the occult, finds out about the evil plan that Verbus is proposing to Robert...</p>
 							</div>
 </section>
 <section class="spotlight">
-							<div class="image"><img src="images/pic03.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/pic02.jpg" alt="" /></div><div class="content">
 								<h2>Augue eleifend aliquet<br />
 								sed condimentum</h2>
 								<p>Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.</p>
