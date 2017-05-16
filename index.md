@@ -56,17 +56,11 @@ sitemap:
 
 </section>
 <!-- Three -->
-
- Premessa:
-
-
-
-
-Cristina Del Buon
-
+<section>
+	
 
  
-<h5>Premessa</h5>
+ <h4>Premessa</h4>
 				<p><span class="image left"><img src="images/pic04.jpg" alt="" />
                 </span>
 				Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
@@ -89,13 +83,14 @@ Ma esiste  poi una strumentazione veramente capace di annullare o cacciare defin
 Viene da chiedersi se quella di Cript è una lotta contro i mulini a vento, o se è invece una rappresentazione, una messa in scena simbolica, per affrontare qualcosa che  conosce molto bene, che è già dentro di lui da tempo, la sua personale “creatura”. 
 <br>
 Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.
+<br/>
 .</p>
 				<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
 
 
 
    
-
+   </section>
 
 
 
