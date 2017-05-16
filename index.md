@@ -62,7 +62,8 @@ Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insedi
 In Cript,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
 
 Chiamarla malattia è troppo generico. Non si tiene conto di come è stata generata e di chi le dà vita. E in fondo, ricollegandomi alla premessa, anche il vento non è mai sempre lo stesso vento.
-
+	</div>
+<div class="content">
 Per questo, le spetta un nome proprio. Si chiama Verbus.
 Come ogni altra creatura, anche Verbus lotta per la sopravvivenza. Il suo cibo scaturisce  dalle lacerazioni interne di Roberto. Si nutre della sua energia e succhia la sua luce. 
 
