@@ -41,13 +41,13 @@ sitemap:
 		</div>
 		</section>
 		<section class="spotlight">
-							<div class="image"><img src="images/pic01.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/colazione.png" alt="" /></div><div class="content">
 								<h2>Il progetto</h2>
 								<p>Cryptmoon è un progetto seriale che parla  dell’eterna battaglia tra il bene e il male. Ma il male in questa serie  è visto come un’energia che aleggia intorno a noi….e che può impossessarsi di chiunque… e di conseguenza condizionarlo  a uccidere persone care che spesso fanno parte della sua famiglia …….  questa energia ha il potere di penetrare nel corpo del protagonista e generare uno sdoppiamento di personalità ….. ha un nome proprio si chiama Verbus, ma è visibile soltanto dal protagonista e da Crypt…… Crypt è il suo rivale…….un  uomo che  attraverso il suo hobby ( la Metafonia, cioè attraverso la registrazione dei suoni che provengono dall’occulto ) cerca di intercettarlo e di intuire i suoi piani malvagi?  e fa di tutto per dissuaderlo dal  portarli a termine……………</p>
 							</div>
 </section>
 <section class="spotlight">
-							<div class="image"><img src="images/pic04.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/mario_iaquone_cript_01.jpg" alt="" /></div><div class="content">
 								<h2>Sinossi</h2>
 								<p>Roberto, dopo aver seguito la moglie Luisa,  scopre che si incontra con  Alessandro. e che Luisa e Alessandro sono innamorati! <br/>
                                 Questa scoperta getta Roberto nel panico e dopo una nottata di disperazione, arriva Verbus…. la sua contro parte oscura, che gli offre una via d’uscita, ma c'è un prezzo da pagare?<br/> il piano di Verbus  viene scoperto da Cript, un uomo che attraverso delle antenne collegate a cristalli riesce ad ascoltare Verbus e ad elaborare un piano per dissuaderlo. Ma il viaggio è lungo.</p>
@@ -56,38 +56,38 @@ sitemap:
 
 </section>
 <!-- Three -->
-<section>
+<section class="spotlight">
 	<header>
 	<h4>Premessa</h4>
 					<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 				</header>
 				<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.</p>
 
-				<p><span class="image left"><img src="images/pic04.jpg" alt="" />
+				<p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
                 </span>
 
             <br>
  Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
-<br>
+
+
 In “Cript”,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
-Chiamarla malattia è troppo generico. Non si tiene conto di come è stata generata e di chi le dà vita. E in fondo, ricollegandomi alla premessa, anche il vento non è mai sempre lo stesso vento.<br/>
+Chiamarla malattia è troppo generico. Non si tiene conto di come è stata generata e di chi le dà vita. E in fondo, ricollegandomi alla premessa, anche il vento non è mai sempre lo stesso vento.
+
 Per questo, le spetta un nome proprio. Si chiama Verbus.
 Come ogni altra creatura, anche Verbus lotta per la sopravvivenza. Il suo cibo scaturisce  dalle lacerazioni interne di Roberto. Si nutre della sua energia e succhia la sua luce. 
-<br/>
-<br>Roberto lo sa di non essere più solo ma lascia che tutto accada. Vivere in parassitosi gli sembra più facile che risanare il suo cuore e il suo spirito. Man mano che cede il suo potere personale a Verbus, questi cresce, si irrobustisce, ha contorni sempre più precisi, una voce sempre più forte, che risuona nella testa di Roberto con arroganza. 
-<br/>
+
+Roberto lo sa di non essere più solo ma lascia che tutto accada. Vivere in parassitosi gli sembra più facile che risanare il suo cuore e il suo spirito. Man mano che cede il suo potere personale a Verbus, questi cresce, si irrobustisce, ha contorni sempre più precisi, una voce sempre più forte, che risuona nella testa di Roberto con arroganza. 
+
 Chi è invece Cript, è un mistero. Strano è il suo armamentario. Alcuni suoi strumenti sembrano antenne. In effetti cerca di captare qualcosa. Inizialmente si potrebbe pensare che sia a caccia di suoni, ma è molto di più. Cript si è attrezzato proprio per  scovare  un certo tipo di entità sottili che vibrano nell'etere, per connettersi con loro. 
- <br>
- Ma cosa lo spinge a fare questo? E cosa vuole ottenere? 
+
+.</p>
+				<p><span class="image right"><img src="images/chiara_mancori_02.jpg" alt="" /></span> Ma cosa lo spinge a fare questo? E cosa vuole ottenere? 
 Cript, arriva ad  individuare Verbus e una volta creato il contatto, lo affronta, lo sfida, ingaggia un duello, lo sfinisce, tanto che Verbus perde forza e fugge da lui.
-<br>
+
 Ma esiste  poi una strumentazione veramente capace di annullare o cacciare definitivamente un' entità? 
 Viene da chiedersi se quella di Cript è una lotta contro i mulini a vento, o se è invece una rappresentazione, una messa in scena simbolica, per affrontare qualcosa che  conosce molto bene, che è già dentro di lui da tempo, la sua personale “creatura”. 
-<br>
-Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.
-<br/>
-.</p>
-				<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
+
+Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.</p>
 
 
 
