@@ -56,7 +56,7 @@ sitemap:
 
 </section>
 <!-- Three -->
-<section class="wrapper  style1">
+<section class="wrapper alt style3">
 <h4>Premessa</h4>
 			
 <p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
