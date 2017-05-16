@@ -56,12 +56,12 @@ sitemap:
 
 </section>
 <!-- Three -->
-<section class="spotlight">
+<section class="article">
 	<header>
 	<h4>Premessa</h4>
 					<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
 				</header>
-				<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.</p>
+				<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come "Entità" cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.</p>
 
 				<p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
                 </span>
@@ -69,8 +69,7 @@ sitemap:
             <br>
  Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
 
-
-In “Cript”,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
+In Cript,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
 Chiamarla malattia è troppo generico. Non si tiene conto di come è stata generata e di chi le dà vita. E in fondo, ricollegandomi alla premessa, anche il vento non è mai sempre lo stesso vento.
 
 Per questo, le spetta un nome proprio. Si chiama Verbus.
@@ -81,17 +80,14 @@ Roberto lo sa di non essere più solo ma lascia che tutto accada. Vivere in para
 Chi è invece Cript, è un mistero. Strano è il suo armamentario. Alcuni suoi strumenti sembrano antenne. In effetti cerca di captare qualcosa. Inizialmente si potrebbe pensare che sia a caccia di suoni, ma è molto di più. Cript si è attrezzato proprio per  scovare  un certo tipo di entità sottili che vibrano nell'etere, per connettersi con loro. 
 
 .</p>
-				<p><span class="image right"><img src="images/chiara_mancori_02.jpg" alt="" /></span> Ma cosa lo spinge a fare questo? E cosa vuole ottenere? 
-Cript, arriva ad  individuare Verbus e una volta creato il contatto, lo affronta, lo sfida, ingaggia un duello, lo sfinisce, tanto che Verbus perde forza e fugge da lui.
+				<p><span class="image right"><img src="images/chiara_mancori_02.jpg" alt="" /></span> 
+                Ma cosa lo spinge a fare questo? E cosa vuole ottenere? 
+                Cript, arriva ad  individuare Verbus e una volta creato il contatto, lo affronta, lo sfida, ingaggia un duello, lo sfinisce, tanto che Verbus perde forza e fugge da lui.
 
 Ma esiste  poi una strumentazione veramente capace di annullare o cacciare definitivamente un' entità? 
 Viene da chiedersi se quella di Cript è una lotta contro i mulini a vento, o se è invece una rappresentazione, una messa in scena simbolica, per affrontare qualcosa che  conosce molto bene, che è già dentro di lui da tempo, la sua personale “creatura”. 
 
 Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.</p>
-
-
-
-   
    </section>
 
 
