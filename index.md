@@ -50,7 +50,7 @@ sitemap:
 								<p>Roberto, dopo aver seguito la moglie Luisa,  scopre che si incontra con  Alessandro. e che Luisa e Alessandro sono innamorati! Questa scoperta getta Roberto nel panico e dopo una nottata di disperazione, arriva Verbus. la sua contro parte oscura, che gli offre una via d’uscita, ma c'è un prezzo da pagare?<br/> il piano di Verbus  viene scoperto da Cript, un uomo che attraverso delle antenne collegate a cristalli riesce ad ascoltare Verbus e ad elaborare un piano per dissuaderlo. Ma il viaggio è lungo.</p>
    							</div>
 </section>
-<section class="spotlight">
+<section class="article">
 <div class="content">	
  <h2>Premessa</h2>
 <p>                               
