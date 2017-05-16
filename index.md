@@ -16,10 +16,10 @@ sitemap:
 <section  id="two" class="wrapper alt style2"> 
 <section class="spotlight">
             <div class="image">
-            <a href="https://studios.amazon.com/projects/154741" > <img src="images/noumenon.png" alt="" /> </a>
+            <a href="https://studios.amazon.com/projects/154741#player/179935" > <img src="images/noumenon.png" alt="" /> </a>
             </div>
             <div class="content">
-	           <h2>Noumenon</h2> 
+	           <a href="https://studios.amazon.com/projects/154741#player/179935" ><h2>Noumenon</h2>  </a>
 			     <p></p>
             </div>
 </section>
