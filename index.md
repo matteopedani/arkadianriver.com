@@ -85,7 +85,3 @@ Viene da chiedersi se quella di Cript è una lotta contro i mulini a vento, o se
 Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.</p>
 </div>
    </section>
-
-
-
-
