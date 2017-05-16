@@ -57,13 +57,15 @@ sitemap:
 </section>
 <!-- Three -->
 <section>
-	
+	<header>
+	<h4>Premessa</h4>
+					<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
+				</header>
+				<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.</p>
 
- 
- <h4>Premessa</h4>
 				<p><span class="image left"><img src="images/pic04.jpg" alt="" />
                 </span>
-				Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
+
             <br>
  Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
 <br>
