@@ -29,7 +29,7 @@ sitemap:
 </section>
 <section class="spotlight">
             <div class="image">
-                <img src="images/pic02.jpg" alt="" />
+                <img src="images/chiara_mancori_04.png" alt="" />
             </div>
         <div class="content">
             <h2>Plot</h2>
@@ -56,17 +56,14 @@ sitemap:
 
 </section>
 <!-- Three -->
-<section class="article">
-	<header>
-	<h4>Premessa</h4>
-					<p>Lorem ipsum dolor sit amet nullam id egestas urna aliquam</p>
-				</header>
-				<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come "Entità" cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.</p>
-
-				<p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
+<section class="wrapper  style2">
+<h4>Premessa</h4>
+			
+<p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
                 </span>
-
-            <br>
+            
+Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come "Entità" cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
+            
  Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
 
 In Cript,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
