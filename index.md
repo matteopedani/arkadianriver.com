@@ -79,8 +79,6 @@ Roberto lo sa di non essere più solo ma lascia che tutto accada. Vivere in para
 
 Chi è invece Cript, è un mistero. Strano è il suo armamentario. Alcuni suoi strumenti sembrano antenne. In effetti cerca di captare qualcosa. Inizialmente si potrebbe pensare che sia a caccia di suoni, ma è molto di più. Cript si è attrezzato proprio per  scovare  un certo tipo di entità sottili che vibrano nell'etere, per connettersi con loro. 
 
-.</p>
-				<p><span class="image right"><img src="images/chiara_mancori_02.jpg" alt="" /></span> 
                 Ma cosa lo spinge a fare questo? E cosa vuole ottenere? 
                 Cript, arriva ad  individuare Verbus e una volta creato il contatto, lo affronta, lo sfida, ingaggia un duello, lo sfinisce, tanto che Verbus perde forza e fugge da lui.
 
