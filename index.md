@@ -19,7 +19,7 @@ sitemap:
             <a href="https://studios.amazon.com/projects/154741#player/179935" > <img src="images/noumenon.png" alt="" /> </a>
             </div>
             <div class="content">
-	           <a href="https://studios.amazon.com/projects/154741#player/179935" ><h2>Noumenon</h2>  </a>
+            <h2><a href="https://studios.amazon.com/projects/154741#player/179935" >Noumenon </a></h2> 
 			     <p></p>
             </div>
 </section>
