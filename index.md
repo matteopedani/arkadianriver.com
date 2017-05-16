@@ -10,7 +10,7 @@ sitemap:
 							<h2>{{ site.title }}</h2>
 							<p>{{ site.description | markdownify }}</p>
 						</div>
-						<a href="#one" class="more scrolly">Learn More</a>
+						<a href="#two" class="more scrolly">Learn More</a>
 </section>
 
 <!-- Two 
@@ -56,7 +56,7 @@ sitemap:
 
 </section>
 <!-- Three -->
-<section class="wrapper  style2">
+<section class="wrapper  style1">
 <h4>Premessa</h4>
 			
 <p><span class="image left"><img src="images/mario_iaquone_cript_02.jpg" alt="" />
