@@ -66,19 +66,13 @@ Cristina Del Buon
 
 
  
-
-
-
-   
-
-
-<section id="three" class="wrapper style3 special">
-						<div class="inner">
-							<header class="major">
-								<h2> Premessa</h2>
-								<p>Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
+<h5>Premessa</h5>
+				<p><span class="image left"><img src="images/pic04.jpg" alt="" />
+                </span>
+				Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come “Entità” cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
+            <br>
  Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
-<br/>
+<br>
 In “Cript”,  un dolore che supera la soglia della sopportazione, diventa una condensazione di energia esplosiva. Dalla detonazione  ecco che viene al mondo questa creatura impalpabile. L' entità, prende corpo, assume un carattere, un atteggiamento. In certi momenti sembra prevalere sull'umano a cui è legato. 
 Chiamarla malattia è troppo generico. Non si tiene conto di come è stata generata e di chi le dà vita. E in fondo, ricollegandomi alla premessa, anche il vento non è mai sempre lo stesso vento.<br/>
 Per questo, le spetta un nome proprio. Si chiama Verbus.
@@ -95,36 +89,14 @@ Ma esiste  poi una strumentazione veramente capace di annullare o cacciare defin
 Viene da chiedersi se quella di Cript è una lotta contro i mulini a vento, o se è invece una rappresentazione, una messa in scena simbolica, per affrontare qualcosa che  conosce molto bene, che è già dentro di lui da tempo, la sua personale “creatura”. 
 <br>
 Verbus comunque riappare, in macchina, sul sedile posteriore, mentre Roberto guida serenamente. Stavolta  Verbus è  taciturno, inerte. È  stato depotenziato ma non integrato e riassorbito. Continua ad esserci,finché non verrà innescato di nuovo e allora continuerà la storia.
-</p>
-							</header>
-							<ul class="features">
-								<li class="icon fa-paper-plane-o">
-									<h3>Arcu accumsan</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-laptop">
-									<h3>Ac Augue Eget</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-code">
-									<h3>Mus Scelerisque</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-headphones">
-									<h3>Mauris Imperdiet</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-heart-o">
-									<h3>Aenean Primis</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-								<li class="icon fa-flag-o">
-									<h3>Tortor Ut</h3>
-									<p>Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat.</p>
-								</li>
-							</ul>
-						</div>
-</section>
+.</p>
+				<p><span class="image right"><img src="images/pic05.jpg" alt="" /></span>Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius. Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat. Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui.</p>
+
+
+
+   
+
+
 
 
 
