@@ -3,7 +3,7 @@ title: Cesare Apolito
 excerpt: 
 author: Mario Iaquone
 tags: featured
-permalink: /topics/cast/
+permalink: /cast/Cesare Apolito/
 categories:
   - topics
   - cast

@@ -16,7 +16,7 @@ sitemap:
 <!-- Two 
 -->
 <section  id="two" class="wrapper alt style2"> 
-    <section class="spotlight">
+        <section class="spotlight">
             <div class="image">
                 <img src="images/pic03.jpg" alt="" />
             </div>
@@ -26,6 +26,6 @@ sitemap:
                  <br/>
                  One of these forces is called Verbus: it enters the body of the protagonist and generates a double personality in him, but this is visible only to Crypt, his rival: a man who by means of Metaphonia - the recording of sounds that arrive from the spirit world - tries to intercept him and figure out his evil plans..</p>
             </div>
-    </section>
+        </section>
 </section>
 
