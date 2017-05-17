@@ -16,7 +16,7 @@ sitemap:
 <section  id="two" class="wrapper alt style2"> 
 <section class="spotlight">
             <div class="image">
-            <a href="https://studios.amazon.com/projects/154741#player/179935" > <img src="images/noumenon.png" alt="" /> </a>
+            <a href="https://studios.amazon.com/projects/154741#player/179935" > <img src="images/noumenon.jpg" alt="" /> </a>
             </div>
             <div class="content">
             <h2><a href="https://studios.amazon.com/projects/154741#player/179935" >Noumenon </a></h2> 
@@ -38,7 +38,7 @@ sitemap:
 </section>
 <section class="spotlight">
             <div class="image">
-                <img src="images/chiara_mancori_04.png" alt="" />
+                <img src="images/chiara_mancori_04.jpg" alt="" />
             </div>
         <div class="content">
             <h2>Plot</h2>
@@ -50,7 +50,7 @@ sitemap:
 		</div>
 		</section>
 		<section class="spotlight">
-							<div class="image"><img src="images/colazione.png" alt="" /></div><div class="content">
+							<div class="image"><img src="images/colazione.jpg" alt="" /></div><div class="content">
 								<h2>Il progetto</h2>
 				<p>Cryptmoon è un progetto seriale che parla  dell’eterna battaglia tra il bene e il male. Ma il male in questa serie  è visto come un’energia che aleggia intorno a noi….e che può impossessarsi di chiunque… e di conseguenza condizionarlo  a uccidere persone care che spesso fanno parte della sua famiglia …….  questa energia ha il potere di penetrare nel corpo del protagonista e generare uno sdoppiamento di personalità ….. ha un nome proprio si chiama Verbus, ma è visibile soltanto dal protagonista e da Crypt Crypt è il suo rivale. Un  uomo che  attraverso il suo hobby ( la Metafonia, cioè attraverso la registrazione dei suoni che provengono dall’occulto ) cerca di intercettarlo e di intuire i suoi piani malvagi?  e fa di tutto per dissuaderlo dal  portarli a termine</p>
 							</div>
@@ -65,7 +65,7 @@ sitemap:
 
  <h2>Premessa</h2>
 <p>                               
-<span class="image left"><img src="images/mario_iaquone_01.png" alt="" /></span>         
+<span class="image left"><img src="images/mario_iaquone_01.jpg" alt="" /></span>         
 Nella Medicina Tradizionale Cinese, le 4 energie patogene vento – umidità – freddo - calore,vengono considerate come "Entità" cioè energie/forze vitali, organizzate secondo determinate caratteristiche e con una sorta di individualità.
 
 Il trattamento delle problematiche fisiche, causate dal loro insinuarsi e insediarsi nel corpo, dipende proprio dall'individuazione dell'entità responsabile e dal grado di penetrazione di questa oltre le barriere difensive corporee. 
