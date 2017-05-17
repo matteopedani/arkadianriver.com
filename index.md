@@ -56,7 +56,9 @@ sitemap:
 							</div>
 </section>
 <section class="spotlight">
-							<div class="image"><img src="images/mario_iaquone_cript_01.jpg" alt="" /></div><div class="content">
+							<div class="image"><img src="images/mario_iaquone_cript_01.jpg" alt="" /></div>
+                            
+                            <div class="content" width= "90%" >
 								<h2>Sinossi</h2>
 								<p>Roberto, dopo aver seguito la moglie Luisa,  scopre che si incontra con  Alessandro. e che Luisa e Alessandro sono innamorati! Questa scoperta getta Roberto nel panico e dopo una nottata di disperazione, arriva Verbus. la sua contro parte oscura, che gli offre una via d’uscita, ma c'è un prezzo da pagare?<br/> il piano di Verbus  viene scoperto da Cript, un uomo che attraverso delle antenne collegate a cristalli riesce ad ascoltare Verbus e ad elaborare un piano per dissuaderlo. Ma il viaggio è lungo.</p>
    							</div>
