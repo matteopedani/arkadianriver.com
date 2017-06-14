@@ -99,7 +99,7 @@ permalink: /:categories/:title.html
 markdown: kramdown
 #sass:
 #  style: compressed
-exclude: ['site.bat','compose.rb','README.md']
+exclude: ['site.bat','compose.rb','README.md','appoggio']
 include: ['_pages','.htaccess']
 defaults:
   - scope:
