@@ -1,22 +1,47 @@
 # Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Cryptmoon
+email: marioiaquone@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 
-# In addition to these settings, there is a file _data/tokens-template.yml
-# that you'll want to customize for your site. It's named 'tokens' because
-# that was it's original purpose, but because tokens.yml is .gitexcluded, it's
-# a good place to store your site-specific data that you'd rather not have
-# forked or cloned. Of course, that means you'd want to back it up elsewhere.
-
-# Also, for your post bylines, add author info for yourself in `_data/authors.yml`.
-# (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
 title: cryptmoon
 description: Noumenon
 owner:
   name: Cryptmoon web film # or company name
-  email: matteo@pedani.it
-  url: http://www.cryptmoon.info
+  email: marioiaquone@gmail.com
+  url: www.cryptmoon.info
 first_published: 2017 # if migrating another site, the year of your first publish
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.cryptmoon.info # the base hostname & protocol for your site
@@ -39,7 +64,7 @@ social:
   #linkedin-square: https://linkedin.com/in/garyfaircloth
   facebook-official: https://www.facebook.com/cryptmoon/
   google-plus-square: https://plus.google.com/u/0/b/109130008025530133457/109130008025530133457
-  email: /contact/
+  email: marioiaquone@gmail.com
   #flickr:
   #instagram:
   #youtube-square:
@@ -94,9 +119,7 @@ works_in_progress: yes
 # set this to yes
 custom_extensions: no
 
-# Build settings
-permalink: /:categories/:title.html
-markdown: kramdown
+
 #sass:
 #  style: compressed
 exclude: ['site.bat','compose.rb','README.md','appoggio']
@@ -119,3 +142,4 @@ defaults:
 # to initialize arrays in assignments (assign myarr = site.empty_array)
 # (easier to grok than assign myarr = '' | split',')
 empty_array: []
+

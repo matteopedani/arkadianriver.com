@@ -1,5 +1,4 @@
-<!-- Footer -->
-<footer id="footer">
+<footer id="footer" class="site-footer">
   <ul class="icons">{%
   for socloc in site.social %}{%
     if socloc[1] %}{%
@@ -32,4 +31,17 @@
     endif %}</li>
     <li><a href="{{ '/credits/' | prepend: site.baseurl }}">Credits</a></li>
   </ul>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+
 </footer>
+
+
